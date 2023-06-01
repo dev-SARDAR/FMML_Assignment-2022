@@ -54,3 +54,6 @@ Module8_Lab1: Introduction to Probability Theory
 Module8_Lab2: Naive Bayes Classifiers  
 Module8_Lab3: Applying Bayes Classifiers  
 Module8_Lab4: Probabilisitic Mixture Models  
+
+Module 9: Neural Networks  
+Module9_Lab1: Introduction to Multi-Layer Perceptron (MLP)  
