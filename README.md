@@ -58,3 +58,4 @@ Module8_Lab4: Probabilisitic Mixture Models
 Module 9: Neural Networks  
 Module9_Lab1: Introduction to Multi-Layer Perceptron (MLP)  
 Module9_Lab2: Using MLP for multiclass classification  
+Module9_Project1: Breast cancer prediction with an MLP Classifier  
