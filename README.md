@@ -60,3 +60,4 @@ Module9_Lab1: Introduction to Multi-Layer Perceptron (MLP)
 Module9_Lab2: Using MLP for multiclass classification  
 Module9_Lab3: Convolutional Neural Networks  
 Module9_Project1: Breast cancer prediction with an MLP Classifier  
+Module9_Project2: Emotion recognition using CNNs  
